@@ -1,5 +1,7 @@
 # AmazonRecommendation
 
+Original Author: Pratima Kshetry Student at: University of Maryland, College Park Technologies Used: Hadoop, MapReduce, Java
+
 This is a simple java code that parses the amazon dataset, creates customer and product profiles from the dataset, which will later be used to generate recommendations for a given customer.
 
 The dataset is available at: http://snap.stanford.edu/data/amazon-meta.html
