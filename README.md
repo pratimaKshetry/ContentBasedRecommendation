@@ -21,4 +21,9 @@ Id:   1
 	    2003-12-14  cutomer: A2VE83MZF98ITY  rating: 5  votes:   6  helpful:   5
 	    
 	    
+The product profile.java create product profile of each of the product available in the dataset.
+The customer profile.java creates customer profile of each customer who have purchased a product/item as given by the Amazon dataset.
+The recommenderApp.java contains the "Main" class.
+The Recommender$DataParser contains the code that parses the given amazon dataset.
 ***************************The source code to this program is licensed under Apache License Version 2.0,
+
